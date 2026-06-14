@@ -124,8 +124,7 @@ All three tickets completed and closed the same day, each showing the closing ag
 
 ## Key takeaways
 
-This project covers the day-to-day reality of a help desk role: standing up the tools IT teams rely on, organizing tickets by department and priority, and working through real support scenarios from intake to resolution. Combined with the Combined with the [Active Directory home lab](https://github.com/Ghummun/active-directory-home-lab), this project..., this project demonstrates both sides of help desk work — managing the directory and accounts users depend on, and managing the support requests that come in when something goes wrong.
-
+This project covers the day-to-day reality of a help desk role: standing up the tools IT teams rely on, organizing tickets by department and priority, and working through real support scenarios from intake to resolution. Combined with the [Active Directory home lab](https://github.com/Ghummun/active-directory-home-lab), this project demonstrates both sides of help desk work — managing the directory and accounts users depend on, and managing the support requests that come in when something goes wrong.
 ## Tools used
 
 - Microsoft Azure (Free Tier)
