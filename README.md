@@ -90,19 +90,25 @@ From the public-facing support portal, submitted three realistic tickets coverin
 ![User support portal](screenshots/user_portal.png)
 ![Ticket submitted confirmation](screenshots/_tickets_submitted.png)
 
-### 11. Triaging and working a ticket
+### 11. Viewing the ticket queue
+
+After all three tickets were submitted, the agent dashboard shows the full open ticket queue — each entry showing the ticket number, subject, submitter, and priority, ready to be triaged.
+
+![Ticket queue](screenshots/ticket_queue.png)
+
+### 12. Triaging and working a ticket
 
 Opened the **"Unable to login - password expired"** ticket from Mike Johnson and triaged it like a real help desk agent would: raised priority to High, transferred to the IT Support department, applied the SEV-2 SLA, and assigned it to agent John Smith.
 
 ![Ticket triaged](screenshots/ticket_triaged.png)
 
-### 12. Responding to the ticket
+### 13. Responding to the ticket
 
 Posted a reply to the user acknowledging the issue and setting expectations for resolution — building a full audit trail of every action taken on the ticket, including priority changes, department transfers, SLA updates, and assignment.
 
 ![Ticket reply and audit trail](screenshots/ticket_reply.png)
 
-### 13. Resolving tickets
+### 14. Resolving tickets
 
 Worked through all three submitted tickets — password reset, network connectivity, and software installation — replying to each user with a resolution and marking the tickets as **Resolved**.
 
@@ -110,7 +116,7 @@ Worked through all three submitted tickets — password reset, network connectiv
 ![Network connectivity ticket resolved](screenshots/ticket_resolved_network.png)
 ![Software installation ticket resolved](screenshots/ticket_resolved_software.png)
 
-### 14. Closed ticket queue
+### 15. Closed ticket queue
 
 All three tickets completed and closed the same day, each showing the closing agent and timestamp — a clean record of a full support cycle from submission to resolution.
 
